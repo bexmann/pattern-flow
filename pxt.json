@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "supportedTargets": [
-        "calliope"
+        "calliopemini"
     ],
     "preferredEditor": "blocksprj"
 }
