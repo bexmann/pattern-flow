@@ -1,7 +1,7 @@
 
 > Diese Seite bei [https://bexmann.github.io/pattern-flow-lr24/](https://bexmann.github.io/pattern-flow-lr24/) öffnen
 
-## Als Erweiterung verwenden
+## Als Erweiterung verwenden test
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
